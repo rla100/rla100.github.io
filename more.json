@@ -1,0 +1,11 @@
+[{
+    "name": "두번째",
+    "userImage": "https://placeimg.com/100/100/arch",
+    "postImage":
+        "https://placeimg.com/640/480/arch",
+    "likes": 36,
+    "date": "May 15",
+    "liked": false,
+    "caption": "두번째 데이터입니다..",
+    "filter": "perpetua"
+  }]
